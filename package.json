@@ -58,7 +58,7 @@
 "jimp": "^0.16.2", 
 "g-i-s": "^2.1.6",
 "@hapi/boom" : "^10.0.0",
-"ysearch": "latest",
+"yt-search": "latest",
 "file-type": "^16.5.3",
 "node-webpmux": "^3.1.1",  
 "qrcode-terminal": "^0.12.0",
